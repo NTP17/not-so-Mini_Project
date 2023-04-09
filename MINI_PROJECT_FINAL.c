@@ -36,6 +36,8 @@
 #include <system.h>
 #include <unistd.h>
 
+// Clock frequency of DE10-Standard is 50 MHz -> one clock cycle takes 20 nanoseconds
+
 #define HALF 25000000       // Number of clock cycles for half a second
 #define DELAY 100           // constant used for usleep()
 #define HUNDRED_MICROS 5000 // Number of clock cycles for 100 microseconds

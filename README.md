@@ -35,6 +35,6 @@ Refer to the files and pictures below for clearer details.
 
 ## Videos showcasing the final result
 
-[LCD1602 and driver-based Motor](https://drive.google.com/file/d/121-UZ29gHzr8yJedm-8hDNA1izHyYURZ/view?usp=share_link)
+[LCD1602 and driver-based Motor](https://github.com/NTP17/not-so-Mini_Project/blob/main/demo%20videos/20221122_104650_Match%20Source%20-%20Adaptive%20Low%20Bitrate.mp4)
 
-[Showing PWM on an oscilloscope](https://drive.google.com/file/d/12877B6pZOsTfwTk7toCMlTWXxNrooujn/view?usp=share_link)
+[Showing PWM on an oscilloscope](https://github.com/NTP17/not-so-Mini_Project/blob/main/demo%20videos/20221122_105719_Match%20Source%20-%20Adaptive%20Low%20Bitrate.mp4)
